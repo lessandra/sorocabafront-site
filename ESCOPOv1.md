@@ -26,6 +26,8 @@ O wireframe está sendo desenhado em https://app.mockflow.com/view/Dd312ea35cef9
 - CSS 3
 - Javascript
 - JQuery 1.9x
+- Crosbrowser: IE10+, Chrome, Firefox, Safari
+- Responsivo
 
 ##Etapas do projeto
 1. Primeiro vamos fazer os HTMLs estáticos, depois vamos fazer as partes dinâmicas (menu fixo, carrossel, etc) usando Javascript/JQuery;
