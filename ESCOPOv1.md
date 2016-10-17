@@ -20,6 +20,7 @@ O wireframe está sendo desenhado em https://app.mockflow.com/view/Dd312ea35cef9
 - As cores do site serão livres, baseadas no logotipo previamente criado para o grupo
 - O layout deverá considerar todos os eventos (mouseovers, clicks, interações, etc)
 - Nessa versão não usaremos frameworks, formulários ou qualquer interação server side
+- As seções terão (cada bloco) o tamanho da tela do usuário (será feito na segunda fase em Javascript), para fins de layout, considerar 400px o tamanho vertical de cada bloco.
 
 ##Tecnologias
 - HTML 5
