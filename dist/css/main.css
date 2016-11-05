@@ -1,0 +1,10 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+}
+h2 {
+  font-family: 'Lobster', cursive;
+}
+main.principal {
+  width: 1120px;
+  margin: 0 auto;
+}
