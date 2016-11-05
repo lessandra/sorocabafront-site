@@ -9,7 +9,9 @@ O objetivo é desenvolver um site simples, dentro de um escopo pré-definido:
 
 O design do site será baseado em wireframe rabiscado durante nosso encontro, ainda está aberto quem irá executá-lo como design, mas assim que estiver feito já vamos dividir em tarefas dentro do Trello para que o trabalho possa seguir.
 
-O board no Trello será público para visualização, mas vamos deixar ele fechado para edição, só quem for membro do Sorocaba Frontend poderá participar e interagir com os boards.
+O board no Trello é público para visualização e acompanhamento, mas vamos deixar ele fechado para edição, só quem for membro do Sorocaba Frontend poderá participar e interagir com os boards.
+
+Acesse: https://trello.com/b/J1IMDE9k/site-sorocabafront-com-br
 
 Para se inscrever mande uma mensagem via Meetup, por Slack ou para o e-mail contato@fernandob.com.br.
 
