@@ -1,3 +1,27 @@
 .banner {
   background-color: red;
+  position: relative;
+  height: 600px;
+  background-image: url(../img/banner.jpg);
+}
+
+.description {
+  text-align: justify;
+  top: 300px;
+  position: absolute;
+}
+
+.title_banner {
+  color: rgb(62, 0, 96);
+  font-family: 'Lobster', cursive;
+  font-weight: normal;
+  font-size: 60px;
+  padding: 0;
+  margin: 0;
+}
+
+.description_banner {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+  color: rgb(62, 0, 96);
 }
