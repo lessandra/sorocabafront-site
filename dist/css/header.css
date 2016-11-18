@@ -26,19 +26,30 @@
 
 .hdlist{
     margin-top: 27px;
-    text-align: right;
+    text-align: center;
 }
 
 .hditem{
     display: inline;
-    padding: 10px 8px 10px 0px;
+    padding: 6px 2px 6px 2px;
+}
+
+.hditem:hover{
+   background-color: #FFF;
+   color: #25AAE1;
+   border-radius: 5px;
 }
 
 .hditem a{
     color: #FFF;
-    font-size: 15px;
+    font-size: 14px;
     font-weight: bold;
     text-decoration: none;
+    padding: 6px 2px 6px 2px;
+}
+
+.hditem a:hover{
+    color: #25AAE1;
 }
 
 .hdlisticon{
@@ -47,7 +58,11 @@
 }
 
 .hdicon{
-    padding: 5px 5px 10px 5px;
+    padding: 5px 5px 5px 5px;
     color: #FFF;
     text-decoration: none;
+}
+
+.hdicon:hover{
+    font-weight: bold;
 }
